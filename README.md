@@ -6,4 +6,4 @@ Since this is my first time making anything with C# the code probably isn't that
 
 Check it out at https://creativelybad.itch.io/cookie-jump
 
-Also go watch the Devlog on YouTube at [Insert Link Here]
+Also go watch the Devlog on YouTube at https://www.youtube.com/watch?v=zhuCpXj3o9I
